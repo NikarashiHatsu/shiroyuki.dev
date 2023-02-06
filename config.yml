@@ -15,7 +15,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-# googleAnalytics: UA-123-45
+googleAnalytics: G-CRCH9872R4
 
 # Minify?
 minify:
