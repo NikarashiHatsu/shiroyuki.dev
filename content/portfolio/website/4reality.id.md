@@ -7,8 +7,8 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
-description: "Sebuah website untuk tim Virtual YouTuber Indonesia"
+comments: true
+description: "Sebuah website untuk salah satu tim Virtual YouTuber Indonesia"
 canonicalURL: "https://nikarashihatsu.github.io/portfolio/website/4reality"
 disableShare: false
 disableHLJS: false

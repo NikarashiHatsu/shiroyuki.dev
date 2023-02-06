@@ -4,6 +4,9 @@ languageCode: en-us
 title: shiroyuki.dev
 theme: hugo-PaperMod
 
+# Disqus
+disqusShortname: shiroyuki-dev
+
 # Idk what config is this.
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -108,6 +111,7 @@ languages:
 
 # Site parameters
 params:
+  comments: true
   env: production
   description: "Shiroyuki.dev - A developer's personal note, tutorial, and more"
   author: Aghits Nidallah
@@ -116,7 +120,7 @@ params:
   hideFooter: true
   defaultTheme: auto
   disableThemeToggle: false
-  ShowShareButton: true
+  ShowShareButtons: true
   ShowReadingTime: true
   disableSpecial1stPost: true
   displayFullLangName: true
@@ -125,7 +129,6 @@ params:
   ShowCodeCopyButton: true
   ShowRssButtonInSectionTermList: true
   ShowToc: true
-  # comments: false
   # images: ["papermod-cover.png"]
   
   # Social Icons
