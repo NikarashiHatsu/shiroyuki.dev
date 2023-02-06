@@ -1,5 +1,5 @@
 ---
 title: Portfolio
 type: list
-description: Halaman ini dalam tahap pengembangan.
+description: Seluruh hasil kerja saya yang bisa diakses secara publik.
 ---

@@ -77,28 +77,38 @@ languages:
       imageTitle: Foto saya
     menu:
       main:
-        - name: Portfolio
+        - identifier: portfolio
+          name: Portfolio
           url: /portfolio/
           weight: 1
-        - name: Blog
+          menu:
+          - identifier: website
+            name: Website
+            url: /portfolio/website
+        - identifier: blog
+          name: Blog
           url: /blog/
           weight: 2
-        - name: Komisi
+        - identifier: commission
+          name: Komisi
           url: /commission/
           weight: 3
-        - name: Kontak
+        - identifier: contact
+          name: Kontak
           url: /contact/
           weight: 4
-        - name: Pencarian
+        - identifier: search
+          name: Pencarian
           url: /search/
           weight: 5
-        - name: Arsip
+        - identifier: archive
+          name: Arsip
           url: /archive/
           weight: 6
 
 # Site parameters
 params:
-  env: local
+  env: production
   description: "Shiroyuki.dev - A developer's personal note, tutorial, and more"
   author: Aghits Nidallah
 

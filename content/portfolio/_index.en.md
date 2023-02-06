@@ -1,5 +1,5 @@
 ---
 title: Portfolio
 type: list
-description: This page is on development.
+description: All of my works which can be used publicly.
 ---
