@@ -1,0 +1,184 @@
+# Basic Information
+baseURL: https://shiroyuki.dev
+languageCode: en-us
+title: shiroyuki.dev
+theme: hugo-PaperMod
+
+# Idk what config is this.
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+# googleAnalytics: UA-123-45
+
+# Minify?
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+# Search output.
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# Available languages
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    profileMode:
+      enabled: true
+      title: "Aghits Nidallah"
+      subtitle: |
+        Hello, my name is Aghits Nidallah 👋.
+
+        I'm a `{full-stack,mobile}` developer, a student, and a `{human,robot}`
+        who drink coffee 24/7 for a living ☕️.
+      imageUrl: "/images/profile.jpg"
+      imageTitle: My photo
+    menu:
+      main:
+        - name: Portfolio
+          url: /portfolio/
+          weight: 1
+        - name: Blog
+          url: /blog/
+          weight: 2
+        - name: Commission
+          url: /commission/
+          weight: 3
+        - name: Contact
+          url: /contact/
+          weight: 4
+        - name: Search
+          url: /search/
+          weight: 5
+        - name: Archive
+          url: /archive/
+          weight: 6
+
+  id:
+    languageName: "Indonesia"
+    weight: 1
+    profileMode:
+      enabled: true
+      title: "Aghits Nidallah"
+      subtitle: |
+        Halo, nama saya Aghits Nidallah 👋.
+
+        Saya seorang `{full-stack,mobile}` developer, mahasiswa, dan `{manusia,robot}`
+        yang hidup dengan menikmati kopi 24/7 ☕️.
+      imageUrl: "/images/profile.jpg"
+      imageTitle: Foto saya
+    menu:
+      main:
+        - name: Portfolio
+          url: /portfolio/
+          weight: 1
+        - name: Blog
+          url: /blog/
+          weight: 2
+        - name: Komisi
+          url: /commission/
+          weight: 3
+        - name: Kontak
+          url: /contact/
+          weight: 4
+        - name: Pencarian
+          url: /search/
+          weight: 5
+        - name: Arsip
+          url: /archive/
+          weight: 6
+
+# Site parameters
+params:
+  env: local
+  description: "Shiroyuki.dev - A developer's personal note, tutorial, and more"
+  author: Aghits Nidallah
+
+  # Site parameters
+  hideFooter: true
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowShareButton: true
+  ShowReadingTime: true
+  disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButton: true
+  ShowRssButtonInSectionTermList: true
+  ShowToc: true
+  # comments: false
+  # images: ["papermod-cover.png"]
+  
+  # Social Icons
+  socialIcons:
+    - name: facebook
+      url: https://www.facebook.com/irlnidallah/
+    - name: twitter
+      url: https://twitter.com/irlnidallah
+    - name: instagram
+      url: https://instagram.com/irlnidallah
+    - name: youtube
+      url: https://www.youtube.com/@aghitsnidallah7953/
+    - name: github
+      url: "https://github.com/NikarashiHatsu"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/aghits-nidallah-9b6728221/"
+
+  # Static Assets
+  assets:
+    favicon: "/images/favicon.ico"
+    favicon16x16: "/images/favicon-16x16.png"
+    favicon32x32: "/images/favicon-32x32.png"
+    apple_touch_icon: "/images/apple-touch-icon.png"
+    safari_pinned_tab: "/images/apple-touch-icon.png"
+
+  # Edit Post
+  editPost:
+    URL: "https://github.com/NikarashiHatsu/shiroyuki.dev"
+    Text: "Suggest Changes"
+    appendFilePath: true
+
+# Markup
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    style: monokai
+
+# Privacy
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+  instagram:
+    disabled: false
+    simple: true
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+# Services
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
