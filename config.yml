@@ -4,6 +4,10 @@ languageCode: en-us
 title: shiroyuki.dev
 theme: hugo-PaperMod
 
+# Taxonomies
+taxonomies:
+  tag: tags
+
 # Disqus
 disqusShortname: shiroyuki-dev
 
@@ -111,6 +115,9 @@ languages:
 
 # Site parameters
 params:
+  mainSections:
+    - blog
+    - portfolio
   comments: true
   env: production
   description: "Shiroyuki.dev - A developer's personal note, tutorial, and more"
