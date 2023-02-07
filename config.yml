@@ -53,8 +53,8 @@ languages:
         - name: Portfolio
           url: /portfolio/
           weight: 1
-        - name: Blog
-          url: /blog/
+        - name: Article
+          url: /article/
           weight: 2
         - name: Commission
           url: /commission/
@@ -68,6 +68,9 @@ languages:
         - name: Archive
           url: /archive/
           weight: 6
+        - name: Tags
+          url: /tags/
+          weight: 7
 
   id:
     languageName: "Indonesia"
@@ -88,13 +91,9 @@ languages:
           name: Portfolio
           url: /portfolio/
           weight: 1
-          menu:
-          - identifier: website
-            name: Website
-            url: /portfolio/website
-        - identifier: blog
-          name: Blog
-          url: /blog/
+        - identifier: article
+          name: Artikel
+          url: /article/
           weight: 2
         - identifier: commission
           name: Komisi
@@ -112,12 +111,16 @@ languages:
           name: Arsip
           url: /archive/
           weight: 6
+        - name: Kategori
+          url: /tags/
+          weight: 7
 
 # Site parameters
 params:
   mainSections:
-    - blog
     - portfolio
+    - article
+    - commission
   comments: true
   env: production
   description: "Shiroyuki.dev - A developer's personal note, tutorial, and more"

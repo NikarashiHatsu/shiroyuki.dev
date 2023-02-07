@@ -21,7 +21,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "/images/blog/macbook-fashionable-or-actually-impressive/macbook.jpg" # image path/url
+    image: "/images/article/macbook-fashionable-or-actually-impressive/macbook.jpg" # image path/url
     alt: "MacBook" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -32,7 +32,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-![MacBook](/images/blog/macbook-fashionable-or-actually-impressive/macbook.jpg)
+![MacBook](/images/article/macbook-fashionable-or-actually-impressive/macbook.jpg)
 Photo by <a href="https://unsplash.com/@alesnesetril?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ales Nesetril</a> on <a href="https://unsplash.com/photos/Im7lZjxeLhg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 The words of description above are insults thrown at me by my friends and even
@@ -58,7 +58,7 @@ varied.
 
 ## Load Time
 
-![Windows Update](/images/blog/macbook-fashionable-or-actually-impressive/windows.jpg)
+![Windows Update](/images/article/macbook-fashionable-or-actually-impressive/windows.jpg)
 Photo by <a href="https://unsplash.com/es/@cbpsc1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Clint Patterson</a> on <a href="https://unsplash.com/photos/yGPxCYPS8H4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 "Load Time" refers to how long it takes for a device to complete a task. For
@@ -101,7 +101,7 @@ built. Eliminating Load Time also results in longer productive time.
 
 ## Battery Life
 
-![Battery Life](/images/blog/macbook-fashionable-or-actually-impressive/battery.jpg)
+![Battery Life](/images/article/macbook-fashionable-or-actually-impressive/battery.jpg)
 Photo by <a href="https://unsplash.com/@meymigrou?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Panos Sakalakis</a> on <a href="https://unsplash.com/photos/35NiG1dYjtM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Basically, laptops can be taken anywhere without worrying about not having an
@@ -132,7 +132,7 @@ from 100% to 20% in 2 hours. Very wasteful.
 
 ## Performance
 
-![Apple Silicon](/images/blog/macbook-fashionable-or-actually-impressive/apple-silicon.jpg)
+![Apple Silicon](/images/article/macbook-fashionable-or-actually-impressive/apple-silicon.jpg)
 
 Photo from [Tekno Cerdas](https://teknocerdas.com/berita/chip-m1-apple-silicon-pada-macbook-air-mengalahkan-macbook-pro/).
 

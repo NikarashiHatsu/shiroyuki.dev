@@ -21,7 +21,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "/images/blog/macbook-fashionable-or-actually-impressive/macbook.jpg" # image path/url
+    image: "/images/article/macbook-fashionable-or-actually-impressive/macbook.jpg" # image path/url
     alt: "MacBook" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -32,7 +32,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-![MacBook](/images/blog/macbook-fashionable-or-actually-impressive/macbook.jpg)
+![MacBook](/images/article/macbook-fashionable-or-actually-impressive/macbook.jpg)
 Foto oleh <a href="https://unsplash.com/@alesnesetril?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ales Nesetril</a> dari <a href="https://unsplash.com/photos/Im7lZjxeLhg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Yap, kata-kata deskripsi singkat di atas adalah lontaran kata-kata yang saya
@@ -60,7 +60,7 @@ biasa. Alasannya beragam.
 
 ## Load Time
 
-![Windows Update](/images/blog/macbook-fashionable-or-actually-impressive/windows.jpg)
+![Windows Update](/images/article/macbook-fashionable-or-actually-impressive/windows.jpg)
 Foto oleh <a href="https://unsplash.com/es/@cbpsc1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Clint Patterson</a> dari <a href="https://unsplash.com/photos/yGPxCYPS8H4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 _Load Time_ berarti waktu berapa lama sebuah perangkat dapat menyelesaikan
@@ -107,7 +107,7 @@ produktif yang lebih lama.
 
 ## Battery Life
 
-![Battery Life](/images/blog/macbook-fashionable-or-actually-impressive/battery.jpg)
+![Battery Life](/images/article/macbook-fashionable-or-actually-impressive/battery.jpg)
 Foto oleh <a href="https://unsplash.com/@meymigrou?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Panos Sakalakis</a> dari <a href="https://unsplash.com/photos/35NiG1dYjtM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Pada dasarnya, kebutuhan laptop itu bisa dibawa kemana saja, tanpa perlu
@@ -138,7 +138,7 @@ _battery drain_ dari 100% ke 20% dalam waktu 2 jam. Sangat boros.
 
 ## Performa
 
-![Apple Silicon](/images/blog/macbook-fashionable-or-actually-impressive/apple-silicon.jpg)
+![Apple Silicon](/images/article/macbook-fashionable-or-actually-impressive/apple-silicon.jpg)
 
 Foto dari [Tekno Cerdas](https://teknocerdas.com/berita/chip-m1-apple-silicon-pada-macbook-air-mengalahkan-macbook-pro/).
 
