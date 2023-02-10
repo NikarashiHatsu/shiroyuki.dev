@@ -3,6 +3,8 @@ baseURL: https://shiroyuki.dev
 languageCode: en-us
 title: shiroyuki.dev
 theme: hugo-PaperMod
+copyright: Aghits Nidallah - shiroyuki.dev &copy;2023
+defaultContentLanguage: id
 
 # Taxonomies
 taxonomies:
@@ -127,7 +129,7 @@ params:
   author: Aghits Nidallah
 
   # Site parameters
-  hideFooter: true
+  hideFooter: false
   defaultTheme: auto
   disableThemeToggle: false
   ShowShareButtons: true
