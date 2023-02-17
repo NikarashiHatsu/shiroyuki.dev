@@ -73,6 +73,12 @@ languages:
         - name: Tags
           url: /tags/
           weight: 7
+    subscription:
+      subscribe: "Subscribe"
+      description: "Don't miss the newest article from this blog."
+      required: "required"
+      email: "Email"
+      subscribeLabel: "Subscribe"
 
   id:
     languageName: "Indonesia"
@@ -116,6 +122,12 @@ languages:
         - name: Kategori
           url: /tags/
           weight: 7
+    subscription:
+      subscribe: "Berlangganan"
+      description: "Jangan lewatkan artikel terbaru dari blog ini."
+      required: "dibutuhkan"
+      email: "Surel"
+      subscribeLabel: "Langganan"
 
 # Site parameters
 params:
