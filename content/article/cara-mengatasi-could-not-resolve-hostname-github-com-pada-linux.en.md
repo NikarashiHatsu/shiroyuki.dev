@@ -1,5 +1,5 @@
 ---
-title: "Cara Mengatasi Could Not Resolve Hostname github.com Pada Linux"
+title: "How to fix Could Not Resolve Hostname github.com on Linux"
 date: 2023-02-23T12:00:20+07:00
 tags: ["linux", "tips"]
 author: "Aghits Nidallah"
