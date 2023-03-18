@@ -1,5 +1,5 @@
 ---
-title: "Hawda"
+title: "Hawada Privacy Policy"
 date: 2023-03-17T21:56:21+07:00
 author: "Aghits Nidallah"
 showToc: true
