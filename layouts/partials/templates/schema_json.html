@@ -34,18 +34,18 @@
     {{- $bc_pg := site.GetPage ($scratch.Get "path") -}}
 
     {{- if (and ($bc_pg) (gt (len . ) 0))}}
-    {{- if (and $index)}} {{end }}
     {
       "@type": "ListItem",
       "position": {{ add 1 $index  }},
       "name": {{ $bc_pg.Name }},
       "item": {{ $bc_pg.Permalink | safeHTML }}
     }
+    {{- if (and $index)}}, {{end }}
     {{- end }}
 
   {{- end }}
   {{- /*  self-page addition  */ -}}
-  {{- if (ge (len $bc_list) 2) }}, {{end }}
+  {{- if (ge (len $bc_list) 2) }} {{end }}
     {
       "@type": "ListItem",
       "position": {{len $bc_list}},
