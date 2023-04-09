@@ -136,7 +136,7 @@ params:
     - article
     - commission
   comments: true
-  env: production
+  env: local
   description: "Shiroyuki.dev - A developer's personal note, tutorial, and more"
   author: Aghits Nidallah
 
