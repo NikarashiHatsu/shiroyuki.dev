@@ -90,7 +90,7 @@ The lyrics of "Subtitle" express the feeling of being lost in life and the searc
 
 <ruby>別<rt>べつ</rt></ruby>に<ruby>言<rt>い</rt></ruby>えばいいけど <ruby>全<rt>ゼン</rt></ruby><ruby>人生<rt>じんせい</rt></ruby>を<ruby>賭<rt>か</rt></ruby>けても ちゃんと<ruby>覆<rt>くつがえ</rt></ruby>さしてよ
 
-<ruby>救<rt>つく</rt></ruby>いたい <ruby>救<rt>つく</rt></ruby>われたい このイコールが<ruby>今<rt>いま</rt></ruby> <ruby>優<rt>や</rt></ruby>しく<ruby>剥<rt>は</rt></ruby>がしていくんだよ
+<ruby>救<rt>つく</rt></ruby>いたい <ruby>救<rt>つく</rt></ruby>われたい このイコールが<ruby>今<rt>いま</rt></ruby> <ruby>優<rt>やさ</rt></ruby>しく<ruby>剥<rt>は</rt></ruby>がしていくんだよ
 
 <ruby>堅<rt>かた</rt></ruby>い<ruby>理論<rt>りろん</rt></ruby><ruby>武装<rt>ぶそう</rt></ruby> プライドの<ruby>過剰<rt>かじょう</rt></ruby><ruby>包装<rt>ほうそう</rt></ruby>を
 
