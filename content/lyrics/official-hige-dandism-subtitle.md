@@ -1,5 +1,5 @@
 ---
-title: "Official Hige Dandism - Subtitle"
+title: "Official Hige Dandism - Subtitle (Romaji, Furigana, and Translation)"
 date: 2023-04-08T23:35:16+07:00
 tags: ["lyrics", "official hige dandism", "j-pop"]
 author: "Aghits Nidallah"
@@ -8,7 +8,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: ""
+description: Subtitle is a Japanese song by the band Official Hige Dandism, released on their album "Traveler" in 2019. The song is a blend of pop, rock, and jazz genres, featuring upbeat instrumentation and catchy melodies.
 canonicalURL: ""
 disableShare: false
 disableHLJS: false
