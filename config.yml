@@ -1,7 +1,7 @@
 # Basic Information
 baseURL: https://shiroyuki.dev
 languageCode: en-us
-title: shiroyuki.dev
+title: A Developer's Note
 theme: hugo-PaperMod
 copyright: Aghits Nidallah - shiroyuki.dev &copy;2023
 defaultContentLanguage: id
@@ -136,7 +136,7 @@ params:
     - article
     - commission
   comments: true
-  env: local
+  env: production
   description: "Shiroyuki.dev - A developer's personal note, tutorial, and more"
   author: Aghits Nidallah
 

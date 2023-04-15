@@ -1,5 +1,5 @@
 ---
-title: Android
+title: Portfolio Aplikasi Android
 type: list
 ShowReadingTime: false
 ---

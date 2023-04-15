@@ -1,5 +1,5 @@
 ---
-title: Kuliah
+title: Catatan Kuliah
 type: list
-description: Kumpulan tulisan terkait pengembangan, [kuliah](../college/), dan hidup.
+description: Catatan pribadi dan proses perkuliahan.
 ---

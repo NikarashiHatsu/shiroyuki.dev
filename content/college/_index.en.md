@@ -1,5 +1,5 @@
 ---
-title: College
+title: College Notes
 type: list
-description: Catatan pribadi dan proses perkuliahan.
+description: Personal college notes.
 ---

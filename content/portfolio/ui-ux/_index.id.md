@@ -1,5 +1,5 @@
 ---
-title: UI/UX
+title: Portfolio UI/UX
 type: list
 ShowReadingTime: false
 ---

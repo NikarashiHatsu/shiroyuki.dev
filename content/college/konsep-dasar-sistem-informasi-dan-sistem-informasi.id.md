@@ -1,5 +1,5 @@
 ---
-title: "Konsep Dasar Sistem, Informasi, dan Sistem Informasi"
+title: "Konsep Dasar Sistem Informasi"
 date: 2022-04-10T04:31:57+07:00
 tags: ["kuliah", "sistem informasi"]
 author: "Aghits Nidallah"
