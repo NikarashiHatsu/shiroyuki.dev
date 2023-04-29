@@ -6,7 +6,7 @@
     "shipSchedule": "https://polairud.bali.polri.go.id/jadwal_kapal?withoutNavbar=true",
     "sliderUrl": "https://polairud.bali.polri.go.id/api/v1/slider_mobile",
     "survey": "https://polairud.bali.polri.go.id/survey?withoutNavbar=true",
-    "privacyPolicy": "https://bwindo.online/management/privacy-policy-for-wayan-polairud-presisi",
+    "privacyPolicy": "https://www.bengkelweb.id/p/privacy-policy-for-wayan-polairud.html",
     "dumasPresisi": "https://dumaspresisi.polri.go.id",
     "lokasiWisata": "https://polairud.bali.polri.go.id/airud-gis/open/tracking_lokasi_filter/objek-wisata",
     "pelabuhan": "https://polairud.bali.polri.go.id/airud-gis/open/tracking_lokasi_filter/pelabuhan",
